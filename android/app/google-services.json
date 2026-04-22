@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "48001430255",
+    "project_id": "ecommerce-afeaa",
+    "storage_bucket": "ecommerce-afeaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48001430255:android:b25031d9e2faf8072d211a",
+        "android_client_info": {
+          "package_name": "com.app.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv8w-Q3eFhoQjJQrL7Z_dXxTHjdmqpgI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48001430255:android:7c5348be69e0a18a2d211a",
+        "android_client_info": {
+          "package_name": "com.example.emoccerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv8w-Q3eFhoQjJQrL7Z_dXxTHjdmqpgI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

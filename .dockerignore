@@ -1,0 +1,7 @@
+.dart_tool/
+.idea/
+android/
+linux/
+windows/
+.git/
+functions/
